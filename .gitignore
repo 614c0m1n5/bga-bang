@@ -1,0 +1,14 @@
+.sass-cache
+
+*.action.php
+*.game.php
+*.js
+*.scss
+*.view.php
+
+!bang.action.php
+!bang.game.php
+!bang.js
+!bang.scss
+!bang.view.php
+!bang_bang.tpl
